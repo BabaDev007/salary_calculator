@@ -40,9 +40,11 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_custom_clippers: any
   get: any
   flutter_staggered_animations: any
+  flutter_native_splash: ^2.2.9
+flutter_native_splash:
+  color: "#42a5f5"
 
 
 
